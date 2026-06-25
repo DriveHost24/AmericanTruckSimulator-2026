@@ -6,3 +6,6 @@ Mack Anthem 48 Sleeper 415 hp 309kW 12 speeds Crude Oil 44974 lb Bakersfield to 
 
 Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Lumber 22999 lb Nogales to Lake Havasu City
 
+Mack Anthem 70 Sleeper 505 hp 377kW 18 speeds Recreational Vehicle 15432 lb Lake Havasu City to Las Vegas
+
+Peterbilt 389 Ultra Cab Sleeper 500 hp 373kW 18 speeds Empty Pallets 20800 lb Oxnard to EI Centro
