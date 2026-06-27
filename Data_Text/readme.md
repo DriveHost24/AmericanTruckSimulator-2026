@@ -9,3 +9,8 @@ Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Lumber 22999 lb Nogales to La
 Mack Anthem 70 Sleeper 505 hp 377kW 18 speeds Recreational Vehicle 15432 lb Lake Havasu City to Las Vegas
 
 Peterbilt 389 Ultra Cab Sleeper 500 hp 373kW 18 speeds Empty Pallets 20800 lb Oxnard to EI Centro
+
+Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Kenworth Trucks 57510 lb Los Angeles to Oakland
+
+Volvo VNL 860 500 hp 372kW 12 speeds Beet Harvester 65000 lb Redding to Modesto
+
