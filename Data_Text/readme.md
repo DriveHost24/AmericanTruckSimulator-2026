@@ -18,3 +18,8 @@ Mack Anthem 70 Sleeper 505 hp 377kW 18 speeds Haul Truck Chassis 27 x 20 x 13 & 
 
 Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Large Reservoir Tank 26 x 16 x 14 & 77000 lb Los Angeles to San Diego
 
+Freightliner Cascadia 72 Sleeper RR 505 hp 371kW 12 speeds Excavator Volvo EW240E MH 57500 lb Kingman to Flagstaff
+
+Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Wheel Loader Volvo L250H 78000 lb San Diego to Los Angeles
+
+Volvo VNL 860 500 hp 373kW 12 speeds Milling Machine 97000 lb Truckee to San Francisco
