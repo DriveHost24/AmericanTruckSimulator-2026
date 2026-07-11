@@ -23,3 +23,7 @@ Freightliner Cascadia 72 Sleeper RR 505 hp 371kW 12 speeds Excavator Volvo EW240
 Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Wheel Loader Volvo L250H 78000 lb San Diego to Los Angeles
 
 Volvo VNL 860 500 hp 373kW 12 speeds Milling Machine 97000 lb Truckee to San Francisco
+
+Volvo VNL 860 500 hp 372kW 12 speeds Mobile Screener 86000 lb Oxnard to Barstow
+
+Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Wheel Loader Volvo L250H 78000 lb Truckee to Stockton
