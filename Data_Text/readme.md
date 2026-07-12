@@ -27,3 +27,7 @@ Volvo VNL 860 500 hp 373kW 12 speeds Milling Machine 97000 lb Truckee to San Fra
 Volvo VNL 860 500 hp 372kW 12 speeds Mobile Screener 86000 lb Oxnard to Barstow
 
 Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Wheel Loader Volvo L250H 78000 lb Truckee to Stockton
+
+Freightliner Cascadia 2019 72 Sleeper RR 605 hp 451kW 18 speeds Heavy Bulldozer 89000 lb Santa Maris to San Diego
+
+Peterbilt 389 Ultra Cab Sleeper 625 hp 466kW 18 speeds Rotary Rakes Krone Swadro TC 1370 10700 lb Redding to Huron
