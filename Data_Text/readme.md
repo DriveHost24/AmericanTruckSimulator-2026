@@ -33,3 +33,5 @@ Freightliner Cascadia 2019 72 Sleeper RR 605 hp 451kW 18 speeds Heavy Bulldozer 
 Peterbilt 389 Ultra Cab Sleeper 625 hp 466kW 18 speeds Rotary Rakes Krone Swadro TC 1370 10700 lb Redding to Huron
 
 Peterbilt 389 Ultra Cab Sleeper 625 hp 466kW 18 speeds Scraper 90000 lb Phoenix to Kingman
+
+Volvo VNL 860 500 hp 372kW 12 speeds Heavy Bulldozer 89000 lb Bakersfield to Stockton
