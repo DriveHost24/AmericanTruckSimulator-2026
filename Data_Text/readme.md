@@ -35,3 +35,5 @@ Peterbilt 389 Ultra Cab Sleeper 625 hp 466kW 18 speeds Rotary Rakes Krone Swadro
 Peterbilt 389 Ultra Cab Sleeper 625 hp 466kW 18 speeds Scraper 90000 lb Phoenix to Kingman
 
 Volvo VNL 860 500 hp 372kW 12 speeds Heavy Bulldozer 89000 lb Bakersfield to Stockton
+
+International 9900i 72 Sleeper 600 hp 447kW 18 speeds Kenworth trucks 57510 lb Phoenix to Los Angeles
