@@ -39,3 +39,5 @@ Volvo VNL 860 500 hp 372kW 12 speeds Heavy Bulldozer 89000 lb Bakersfield to Sto
 International 9900i 72 Sleeper 600 hp 447kW 18 speeds Kenworth trucks 57510 lb Phoenix to Los Angeles
 
 Freightliner Cascadia 72 Sleeper RR 505 hp 371kW 12 speeds Huge Construction 40 x 16 x 13 & 122000 lb Yuma to Tucson
+
+Kenworth T680 76 Sleeper 430 hp 321kW 12 speeds Iron Pipes 22500 lb San Diego to Santa Maria
