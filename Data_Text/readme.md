@@ -45,3 +45,5 @@ Kenworth T680 76 Sleeper 430 hp 321kW 12 speeds Iron Pipes 22500 lb San Diego to
 Kenworth T680 76 Sleeper 605 451kW 18 speeds Transformer 123500 lb Phoenix to Los Angeles
 
 Freightliner Cascadia 72 Sleeper RR 505 hp 371kW 12 speeds Underground Loader 39 x 10 x 10 & 120000 lb Oxnard to Barstow
+
+Volvo VNL 860 500 hp 372kW 12 speeds Heavy Bulldozer 89000 lb Kayenta to Show Low
