@@ -47,3 +47,7 @@ Kenworth T680 76 Sleeper 605 451kW 18 speeds Transformer 123500 lb Phoenix to Lo
 Freightliner Cascadia 72 Sleeper RR 505 hp 371kW 12 speeds Underground Loader 39 x 10 x 10 & 120000 lb Oxnard to Barstow
 
 Volvo VNL 860 500 hp 372kW 12 speeds Heavy Bulldozer 89000 lb Kayenta to Show Low
+
+Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Forage Harvester Krone BiG X 1180 37700 San Simon to Nogales
+
+International 9900i 72 Sleeper 600 hp 447kW 18 speeds Square Baler Krone BiG Pack 1290 HDP VC 22500 lb Bakersfield to Huron
